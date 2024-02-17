@@ -1,3 +1,5 @@
 testando
 
 alterando localmente
+
+altarando apos o git add
